@@ -6,5 +6,6 @@ Habilidade em trabalhar com VSCode, ChatGPT e growth mindset, facilitação em s
 
 Ferramentas
 
+
 Linguagens: HTML, CSS, JavaScript
 Tecnologia: Git/GitHub, Miro, ManyChat, Ziper, Netlify, Notion, ChatGPT
